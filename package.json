@@ -1,9 +1,12 @@
 {
+  "homepage": "https://Chetankumar000.github.io/Online Food Ordering Application",
   "name": "namaste",
   "version": "1.0.0",
   "description": "This is a new project on react",
   "scripts": {
     "start": "parcel index.html",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist",
     "build": "parcel build index.html",
     "test": "jest",
     "watch-test": "jest --watch"
@@ -17,6 +20,7 @@
     "@testing-library/jest-dom": "^6.4.8",
     "@testing-library/react": "^16.0.0",
     "babel-jest": "^29.7.0",
+    "gh-pages": "^6.1.1",
     "jest": "^29.7.0",
     "jest-environment-jsdom": "^29.7.0",
     "parcel": "^2.12.0",
