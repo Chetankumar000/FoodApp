@@ -1,0 +1,4067 @@
+{
+  "statusCode": 0,
+  "data": {
+    "statusMessage": "done successfully",
+    "cards": [
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.TextBoxV2",
+            "text": "Tamizhan T Fun",
+            "headerStyling": {
+              "textColor": "text_Highest_Emphasis",
+              "textVariant": "header_H3_Black"
+            }
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.RestaurantBlTab",
+            "tabs": [
+              {
+                "id": "Order Online",
+                "title": "Order Online"
+              }
+            ]
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+            "info": {
+              "id": "642820",
+              "name": "Tamizhan T Fun",
+              "city": "Mumbai",
+              "slugs": {
+                "restaurant": "tamizhan-t-fun-thane-thane-2",
+                "city": "mumbai"
+              },
+              "uniqueId": "e51e6528-4859-48c8-8fed-e84c17dc2d76",
+              "cloudinaryImageId": "5858e72b1c6e87e583425b1129f32ffa",
+              "locality": "Vartaknagar",
+              "areaName": "Thane Hiranandani Estate",
+              "costForTwo": "30000",
+              "costForTwoMessage": "₹300 for two",
+              "cuisines": ["South Indian"],
+              "avgRating": 4.5,
+              "veg": true,
+              "feeDetails": {
+                "restaurantId": "642820",
+                "fees": [
+                  {
+                    "name": "TYPE_DISTANCE",
+                    "fee": 4700
+                  },
+                  {
+                    "name": "TYPE_TIME"
+                  }
+                ],
+                "totalFee": 4700,
+                "title": "Delivery Charge",
+                "amount": "4700",
+                "icon": "v1648635511/Delivery_fee_new_cjxumu",
+                "message": "<b>3.9 kms</b> | ₹47 Delivery fee will apply"
+              },
+              "parentId": "308960",
+              "avgRatingString": "4.5",
+              "totalRatingsString": "1K+ ratings",
+              "sla": {
+                "restaurantId": "642820",
+                "deliveryTime": 27,
+                "minDeliveryTime": 25,
+                "maxDeliveryTime": 30,
+                "lastMileTravel": 3.9,
+                "serviceability": "SERVICEABLE",
+                "stressFactor": 1,
+                "rainMode": "RAIN_MODE_NONE",
+                "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+                "zoneId": 210,
+                "slaString": "25-30 MINS",
+                "lastMileTravelString": "3.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+              },
+              "availability": {
+                "nextCloseTime": "2024-08-06 23:55:00",
+                "visibility": true,
+                "opened": true,
+                "restaurantClosedMeta": {}
+              },
+              "aggregatedDiscountInfo": {
+                "header": "60% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "60% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "60% off up to ₹120 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "visible": true
+              },
+              "badges": {},
+              "slugString": "tamizhan-t-fun-thane-thane-2",
+              "multiOutlet": true,
+              "isOpen": true,
+              "labels": [
+                {
+                  "title": "Timings",
+                  "message": "null"
+                },
+                {
+                  "title": "Address",
+                  "message": "Shop No-56 Ground Floor, C/D-VARDHAMAN VATIKA CHS,OPP.D-MART,KOLSHET ROAD , Dhokali, Thane West, Thane, Maharashtra, India"
+                },
+                {
+                  "title": "Cuisines",
+                  "message": "South Indian"
+                }
+              ],
+              "totalRatings": 1000,
+              "aggregatedDiscountInfoV2": {
+                "header": "60% off",
+                "shortDescriptionList": [
+                  {
+                    "meta": "60% off | Use TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "descriptionList": [
+                  {
+                    "meta": "60% off up to ₹120 | Use code TRYNEW",
+                    "discountType": "Percentage",
+                    "operationType": "RESTAURANT"
+                  },
+                  {
+                    "meta": "Flat ₹200 off | Use FLATDEAL",
+                    "discountType": "Flat",
+                    "operationType": "RESTAURANT"
+                  }
+                ],
+                "couponDetailsCta": "View coupon details"
+              },
+              "type": "F",
+              "nudgeBanners": [
+                {
+                  "minValue": 279,
+                  "maxValue": 399,
+                  "priority": 2,
+                  "couponCode": "FLATDEAL",
+                  "discountInfo": {
+                    "discountType": "Flat",
+                    "value": 200
+                  },
+                  "lockedMessage": "Add items worth ₹<amount> to save ₹200 | Code FLATDEAL",
+                  "unlockedMessage": "FLATDEAL Coupon Unlocked! Use it to save ₹200",
+                  "logoCtx": {}
+                }
+              ],
+              "headerBanner": {
+                "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/642820"
+              },
+              "expectationNotifiers": [
+                {
+                  "text": "<b>3.9 kms</b> | ₹47 Delivery fee will apply",
+                  "icon": {
+                    "imageId": "v1648635511/Delivery_fee_new_cjxumu"
+                  },
+                  "popup": {
+                    "cta": {}
+                  },
+                  "type": "DISTANCE_FEE_NON_FOOD_LM",
+                  "enrichedText": "<b>3.9 kms</b> | ₹47 Delivery fee will apply",
+                  "halfCardPopup": {
+                    "halfCardPopupHeader": {}
+                  },
+                  "trailingIcon": {}
+                }
+              ],
+              "ratingSlab": "RATING_SLAB_5",
+              "orderabilityCommunication": {
+                "title": {},
+                "subTitle": {},
+                "message": {},
+                "customIcon": {}
+              },
+              "hasBestsellerItems": true,
+              "cartOrderabilityNudgeBanner": {
+                "parameters": {},
+                "presentation": {}
+              },
+              "latLong": "19.22396,72.97913",
+              "backgroundImageOverlayInfo": {}
+            },
+            "analytics": {}
+          },
+          "relevance": {
+            "type": "RELEVANCE_TYPE_CHECK_ORDERABILITY_ON_ITEM_ADD",
+            "sectionId": "POP_UP_CROUTON_MENU"
+          }
+        }
+      },
+      {
+        "card": {
+          "card": {
+            "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+            "layout": {
+              "rows": 1,
+              "columns": 5,
+              "horizontalScrollEnabled": true,
+              "itemSpacing": 12,
+              "lineSpacing": 10,
+              "widgetPadding": {},
+              "containerStyle": {
+                "containerPadding": {
+                  "left": 10,
+                  "right": 10,
+                  "bottom": 16
+                }
+              },
+              "scrollBar": {}
+            },
+            "id": "offerCollectionWidget_UX4",
+            "gridElements": {
+              "infoWithStyle": {
+                "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+                "offers": [
+                  {
+                    "info": {
+                      "header": "60% OFF UPTO ₹120",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["5f3d75cc-b6c4-4f76-92e6-9f281ed93c97"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE TRYNEW",
+                      "description": "ABOVE ₹179",
+                      "offerType": "offers",
+                      "restId": "642820",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹200 OFF",
+                      "offerTag": "FLAT DEAL",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["2067badd-1312-459d-bf16-7f60bb9c430c"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE FLATDEAL",
+                      "description": "ABOVE ₹399",
+                      "offerType": "offers",
+                      "restId": "642820",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "Free Podi Idli",
+                      "offerTagColor": "#E46D47",
+                      "offerIds": ["e443f30c-f0ba-43e9-ab77-bac5f089e3d5"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "NO CODE REQUIRED",
+                      "description": "ABOVE ₹449",
+                      "offerType": "offers",
+                      "restId": "642820",
+                      "offerLogo": "offers/generic",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "FLAT ₹200 OFF",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/d2b89c98-2528-4370-a271-ea127127ad2d_Axis.png",
+                      "offerIds": ["19096af1-e158-440f-abfe-129ebd0a67b8"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE AXIS200",
+                      "description": "ABOVE ₹1000",
+                      "offerType": "offers",
+                      "restId": "642820",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/d2b89c98-2528-4370-a271-ea127127ad2d_Axis.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  },
+                  {
+                    "info": {
+                      "header": "30% OFF UPTO ₹150",
+                      "offerTagColor": "#E46D47",
+                      "logoBottom": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/16d410a3-56fd-4a93-8f21-373180d89ce4_AxisMenuLogo.png",
+                      "offerIds": ["a2812cd5-616f-47e9-81e6-04d650f77d20"],
+                      "expiryTime": "1970-01-01T00:00:00Z",
+                      "couponCode": "USE AXIS30",
+                      "description": "ABOVE ₹200",
+                      "offerType": "offers",
+                      "restId": "642820",
+                      "offerLogo": "MARKETING_BANNERS/IMAGES/OFFERS/2024/7/31/16d410a3-56fd-4a93-8f21-373180d89ce4_AxisMenuLogo.png",
+                      "descriptionTextColor": "#7302060C"
+                    },
+                    "cta": {
+                      "type": "OFFER_HALF_CARD"
+                    }
+                  }
+                ],
+                "habitMilestoneInfo": {
+                  "callout": {}
+                },
+                "loyaltyDiscoverPresentationInfo": {
+                  "logoCtx": {}
+                }
+              }
+            }
+          }
+        }
+      },
+      {
+        "groupedCard": {
+          "cardGroupMap": {
+            "REGULAR": {
+              "cards": [
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                      "isPureVeg": true,
+                      "badges": {},
+                      "vegOnlyDetails": {
+                        "imageId": "AutoVegOnly_qkjowj",
+                        "title": "Showing only vegetarian options.",
+                        "description": "Tap on the VEG ONLY button to turn off the setting"
+                      },
+                      "topRatedFilter": {
+                        "attributes": {
+                          "displayText": "Ratings 4.0+"
+                        }
+                      },
+                      "kidsCategoryFilter": {
+                        "attributes": {
+                          "displayText": "Kids Favourites",
+                          "tooltip": {
+                            "enabled": true,
+                            "displayText": "Kids Favourites Filter applied. Remove this filter to see the full Menu."
+                          }
+                        }
+                      },
+                      "vegFilter": {
+                        "attributes": {
+                          "displayText": "VEG"
+                        }
+                      },
+                      "nonvegFilter": {
+                        "attributes": {
+                          "displayText": "NONVEG"
+                        }
+                      }
+                    },
+                    "relevance": {
+                      "type": "RELEVANCE_TYPE_ON_MENU_FILTER_TOGGLED",
+                      "sectionId": "MENU_FILTER_TOGGLE"
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuCarousel",
+                      "title": "Top Picks",
+                      "carousel": [
+                        {
+                          "type": "TopCarousel",
+                          "subtype": "image",
+                          "bannerId": "2629438",
+                          "creativeId": "TopPicks2024/106351489B.png",
+                          "title": "Paniyappam",
+                          "description": " ",
+                          "fontColor": "#FFFFFF",
+                          "dish": {
+                            "info": {
+                              "id": "106351489",
+                              "name": "Paniyappam",
+                              "category": "Appams",
+                              "description": "Fermented rice and lentil batter mixed with seasoning and steamed in special pans",
+                              "imageId": "f8fdf9a8b1a5018c7ae7507bfffb3866",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "type": "TopCarousel",
+                          "subtype": "image",
+                          "bannerId": "2626297",
+                          "creativeId": "TopPicks2024/106351453B.png",
+                          "title": "Mysore Masala Dosai",
+                          "description": " ",
+                          "fontColor": "#FFFFFF",
+                          "dish": {
+                            "info": {
+                              "id": "106351453",
+                              "name": "Mysore Masala Dosai",
+                              "category": "Dosas",
+                              "description": "A crisp rice and lentil crepe stuffed with spiced and savory vegetable filling consisting of beetroot, carrot and onions",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/3ae55abb-1f08-43b8-b00b-162d120db0a3_091ff8cf-f4a4-436c-a59d-66647cf5c8cf.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Dosas",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351453",
+                              "name": "Mysore Masala Dosai",
+                              "category": "Dosas",
+                              "description": "A crisp rice and lentil crepe stuffed with spiced and savory vegetable filling consisting of beetroot, carrot and onions",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/3ae55abb-1f08-43b8-b00b-162d120db0a3_091ff8cf-f4a4-436c-a59d-66647cf5c8cf.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "140 ratings",
+                                  "ratingCountV2": "140"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351461",
+                              "name": "Neer Dosai",
+                              "category": "Dosas",
+                              "description": "Neer dosa is a thin crepe from Mangalorean cuisine made with soaked rice, water and salt",
+                              "imageId": "zpzcdfmlxbpdq8uisgto",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "194 ratings",
+                                  "ratingCountV2": "194"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351451",
+                              "name": "Masala Dosai",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "97 ratings",
+                                  "ratingCountV2": "97"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167468",
+                              "name": "Rava Masala Dosa",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.9",
+                                  "ratingCount": "20 ratings",
+                                  "ratingCountV2": "20"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "120884600",
+                              "name": "Rava Masala Dosai With Masala Separate",
+                              "category": "Dosas",
+                              "description": "Rava Masala Dosa With Masala Separate",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 20900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "23 ratings",
+                                  "ratingCountV2": "23"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351450",
+                              "name": "Kothamilli Dosai",
+                              "category": "Dosas",
+                              "description": "Dosa prepared with fresh and fragrant mint leaves, served with refreshing mint chutney and smanbhar",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/df9e4a8c-06f9-43ed-80c6-9b44260962dd_42ae3fbc-d96b-4932-ac15-168cfad2261a.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "21 ratings",
+                                  "ratingCountV2": "21"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351441",
+                              "name": "Adai Avial",
+                              "category": "Dosas",
+                              "description": "Lentils pancake served with a flavourful coconut-and-yogurt-based curry of mix vegetables with a finishing of coconut oil and curry leaves",
+                              "imageId": "jvhozcs2sy9xxjei6m4p",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "34 ratings",
+                                  "ratingCountV2": "34"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351460",
+                              "name": "Ghee Onion Uttapam",
+                              "category": "Dosas",
+                              "description": "Onion Uttapam made in homemade Ghee",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "25 ratings",
+                                  "ratingCountV2": "25"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167524",
+                              "name": "Set Dosai",
+                              "category": "Dosas",
+                              "description": "Soft dosas served in a set of 3 dosas per serving",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "19 ratings",
+                                  "ratingCountV2": "19"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351464",
+                              "name": "Sada Dosai",
+                              "category": "Dosas",
+                              "description": "Sada Dosa is a popular breakfast made using fermented batter of rice and lentils",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "27 ratings",
+                                  "ratingCountV2": "27"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125627935",
+                              "name": "Ghee Rava Masala Dosai",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351449",
+                              "name": "Ghee Dosai",
+                              "category": "Dosas",
+                              "description": "It has a rich aroma of ghee and a wonderful texture that is crisp on the outer side and slightly softer on the inside",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "27 ratings",
+                                  "ratingCountV2": "27"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114431838",
+                              "name": "Podi Onion Uttapam",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "14 ratings",
+                                  "ratingCountV2": "14"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167474",
+                              "name": "Ghee Podi Onion Dosa",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351466",
+                              "name": "Vengayam Uttapam",
+                              "category": "Dosas",
+                              "description": "South Indian Breakfast pancakes made with lentils, rice, onions and spices",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125627936",
+                              "name": "Ghee Masala Dosai",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351445",
+                              "name": "Chettinad Dosai",
+                              "category": "Dosas",
+                              "description": "Spiced dosa prepared with pepper, nutmeg flour and start anise; topped with mixed herbs and served with Sambhar and a variety of chutneys",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 18000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.5",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114431840",
+                              "name": "Masala Vengayam Uttapam",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351444",
+                              "name": "Beetroot-carrot Dosai",
+                              "category": "Dosas",
+                              "description": "A crisp rice and lentil crepe stuffed with grated beetroot and carrot",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351463",
+                              "name": "Ragi Dosai",
+                              "category": "Dosas",
+                              "description": "A mixture of idli podi and ghee is mixed and then smeared on the idlis",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351459",
+                              "name": "Mysore Sada Dosai",
+                              "category": "Dosas",
+                              "imageId": "qcxec0xgj9ic5nihlflv",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167525",
+                              "name": "Rava Dosai",
+                              "category": "Dosas",
+                              "description": "Crispy, netted and thin crepes made with semolina, rice flour, all purpose flour and spices",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167475",
+                              "name": "Ghee Rava Dosai",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125627937",
+                              "name": "Ghee Onion Dosa",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351462",
+                              "name": "Podi Dosai",
+                              "category": "Dosas",
+                              "description": "A popular variety of dosa with idli podi smeared on the inside of the dosa",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105330915",
+                              "name": "Uttapam",
+                              "category": "Dosas",
+                              "description": "South Indian Breakfast pancakes made with lentils, rice, (Plain uttapam)",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "14 ratings",
+                                  "ratingCountV2": "14"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114431844",
+                              "name": "Avial (250ml)",
+                              "category": "Dosas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "16 ratings",
+                                  "ratingCountV2": "16"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351443",
+                              "name": "Beetroot Dosai",
+                              "category": "Dosas",
+                              "description": "A crisp rice and lentil crepe stuffed with grated beetroot",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351452",
+                              "name": "Multigrain Dosai",
+                              "category": "Dosas",
+                              "description": "Fermented Ragi Dosa recipe made with whole Ragi millet and Urad dal",
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.7",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105330914",
+                              "name": "Pesarattu",
+                              "category": "Dosas",
+                              "description": "Crisp crepes made with a lightly spiced mung lentil batter.",
+                              "isVeg": 1,
+                              "price": 14500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 5:57 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "20 ratings",
+                                  "ratingCountV2": "20"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Idlis",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167498",
+                              "name": "Idli Sambhar (3 Pcs)",
+                              "category": "Idlis",
+                              "description": "Idli is made up of rice + urad dal by using wet grinder to make its batter.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "227 ratings",
+                                  "ratingCountV2": "227"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "121980229",
+                              "name": "Button Podi Idli",
+                              "category": "Idlis",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/884971cf-98be-4dbb-aa35-694822f7c2be_f22a3be8-0980-401e-8c37-f817898f0594.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "24 ratings",
+                                  "ratingCountV2": "24"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125675978",
+                              "name": "Ghee Podi Idli (3 Pcs)",
+                              "category": "Idlis",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/96a13245-64a9-4f1f-8c3c-e937924d03da_034a300b-5a06-48cb-ac70-6e3333ae825e.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "50 ratings",
+                                  "ratingCountV2": "50"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167511",
+                              "name": "Idli Vada Sambhar",
+                              "category": "Idlis",
+                              "description": "A South Indian breakfast meal where soft fluffy idlis and crispy fried vadas are served with sambhar, a vegetable lentil stew",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "80 ratings",
+                                  "ratingCountV2": "80"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125675959",
+                              "name": "Ghee Podi Idli (2pc)",
+                              "category": "Idlis",
+                              "description": "Savor the magic of ghee-infused podi idlis",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "31 ratings",
+                                  "ratingCountV2": "31"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351434",
+                              "name": "Tattai Idli",
+                              "category": "Idlis",
+                              "description": "A palm-sized, soft and fluffy idli served with a variety of chutneys",
+                              "imageId": "c3cc4a1c7fa4686bcaad33bed19c2215",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "22 ratings",
+                                  "ratingCountV2": "22"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351431",
+                              "name": "Idli Sambhar 2 Pc",
+                              "category": "Idlis",
+                              "description": "Fluffy idlis, tangy sambar, and one chutney: A South Indian trio that dances on your taste buds",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "45 ratings",
+                                  "ratingCountV2": "45"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106080250",
+                              "name": "Ghee Sambhar Button Idli",
+                              "category": "Idlis",
+                              "description": "Button idlis dipped in traditional sambhar and a spoon of ghee poured on top",
+                              "imageId": "qmv7kcwbjmyfiurxdbiu",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "34 ratings",
+                                  "ratingCountV2": "34"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119224550",
+                              "name": "Fried Button Idli",
+                              "category": "Idlis",
+                              "description": "Button Idli fried delicately and spiced with podi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351428",
+                              "name": "Button Idli",
+                              "category": "Idlis",
+                              "description": "Steamed mini idlis served + a variety of chutneys",
+                              "imageId": "e59f2985a1256432f6522370dab71314",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125675960",
+                              "name": "Ghee Idli Upma",
+                              "category": "Idlis",
+                              "description": "Diced idlis smeared in ghee, tempered with a basic tadka, chopped tomatoes, onions and idli podi sprinkled.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/72fc8f0f-6706-4623-a769-829c6774262f_05579779-5bc4-4ab1-948b-8a5d3dbce910.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125627932",
+                              "name": "Ghee Tattai Idli",
+                              "category": "Idlis",
+                              "description": "Tattai idli served + homemade pure Ghee + generously coated + a flavorful podi powder.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "125675979",
+                              "name": "Ghee Button Idli",
+                              "category": "Idlis",
+                              "description": "Steamed mni idlis smeared in ghee and served with a variety of chutneys",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/87a781ac-5d3f-4d7e-83d3-d0e66ace8fbc_7ea32d83-e96b-401c-8fad-07bb1722e362.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351429",
+                              "name": "Idli Upma",
+                              "category": "Idlis",
+                              "description": "Idlis delicately smashed + tossed + onions & spices.",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/72fc8f0f-6706-4623-a769-829c6774262f_05579779-5bc4-4ab1-948b-8a5d3dbce910.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119224548",
+                              "name": "Fried Tattai Idli",
+                              "category": "Idlis",
+                              "description": "Tattai Idli fried delicately and spiced with podi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119224547",
+                              "name": "Idli Wada Sambhar (2pc)",
+                              "category": "Idlis",
+                              "description": "1 Idli and wada with Chutney and sambhar",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "21 ratings",
+                                  "ratingCountV2": "21"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119224549",
+                              "name": "Fried Idli",
+                              "category": "Idlis",
+                              "description": "Idlis fried delicately and spiced with podi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "120211655",
+                              "name": "Fried Masala Button Idli",
+                              "category": "Idlis",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "123393134",
+                              "name": "Sambhar Dip Idli Vadai (2pc)",
+                              "category": "Idlis",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "123393135",
+                              "name": "Sambhar Dip Idli Vadai (3pc)",
+                              "category": "Idlis",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118326479",
+                              "name": "Sambhar Dip Idli (2pc)",
+                              "category": "Idlis",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 12000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351433",
+                              "name": "Masala Idli",
+                              "category": "Idlis",
+                              "description": "An alternate fun way to enjoy idlis. These are seasoned with molagapudi",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Rice",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105330951",
+                              "name": "Venpongal",
+                              "category": "Rice",
+                              "description": "A traditional south indian dish made with rice, split yellow mung dal, ghee, cumin, ginger, pepper and curry leaves",
+                              "imageId": "8ee18e1dc7de1f00f6a9df3c3fbaac19",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "57 ratings",
+                                  "ratingCountV2": "57"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351471",
+                              "name": "Bisi Bele Bhaat",
+                              "category": "Rice",
+                              "description": "A flavoursome, spicy and slightly tangy meal made with lentils, rice, mixed vegetables and a super aromatic spice powder",
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "38 ratings",
+                                  "ratingCountV2": "38"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167476",
+                              "name": "Tomato Saadham",
+                              "category": "Rice",
+                              "description": "A simple South Indian dish where rice is cooked with lots of tomatoes, herbs & spices",
+                              "imageId": "vv9v87dntxksdikwedzo",
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.7",
+                                  "ratingCount": "24 ratings",
+                                  "ratingCountV2": "24"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167514",
+                              "name": "Elumichai Saadham",
+                              "category": "Rice",
+                              "description": "Boiled rice cooked and tossed with tempering then enriched with Lemon juice",
+                              "imageId": "k7iju7s5o5vsztjitkle",
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167460",
+                              "name": "Sambhar Saadham",
+                              "category": "Rice",
+                              "isVeg": 1,
+                              "price": 14500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167481",
+                              "name": "Thengai Saadham",
+                              "category": "Rice",
+                              "description": "A light, savory, South Indian rice dish with fresh grated coconut, lentils, herbs and spices",
+                              "imageId": "uok36j4knytjw7jlkz08",
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "18 ratings",
+                                  "ratingCountV2": "18"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114431965",
+                              "name": "Thayir Saadham",
+                              "category": "Rice",
+                              "description": "Curd Rice served prepared with tempered spices and served with pickle",
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167467",
+                              "name": "Rasam Saadham",
+                              "category": "Rice",
+                              "isVeg": 1,
+                              "price": 14500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167518",
+                              "name": "Ghee Podi Kara Saadham",
+                              "category": "Rice",
+                              "description": "A flavoursome, spicy and slightly tangy meal made with lentils, rice, mixed vegetables and a super aromatic spice powder",
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.1",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105330946",
+                              "name": "Puliyodarai",
+                              "category": "Rice",
+                              "description": "A traditional Kerala, Tamil and Sri Lankan food consisting of rice flour pressed into noodle form and then steamed",
+                              "imageId": "56cd68a2510c3448cfff10fb4227de47",
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:28 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.8",
+                                  "ratingCount": "30 ratings",
+                                  "ratingCountV2": "30"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Vadas",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351487",
+                              "name": "Ulundu Vadai (3 Pieces)",
+                              "category": "Vadas",
+                              "description": "Medu vada (ulundu vadai) is a traditional dish from South Indian cuisine served with coconut chutney and Sambhar",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/d2b0d675-2a75-4b0b-80d9-30d11e9940f5_7d694c59-67d2-4e6d-abb6-16436e2b1de4.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "248 ratings",
+                                  "ratingCountV2": "248"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351479",
+                              "name": "Rasam Vadai",
+                              "category": "Vadas",
+                              "description": "A tasty South Indian style crispy Vada dunk in spicy & flavorful Rasam",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/26fd96b6-ad2b-4861-ae4d-6962e6c0ea68_b75d04c4-f9ca-4375-894f-bd01bdb6f4b9.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "40 ratings",
+                                  "ratingCountV2": "40"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118326480",
+                              "name": "Sambhar Dip Wadas (ulandu Vadai 2pc)",
+                              "category": "Vadas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "117469954",
+                              "name": "Ulundu Vadai (2 Pieces)",
+                              "category": "Vadas",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "11 ratings",
+                                  "ratingCountV2": "11"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351478",
+                              "name": "Parappu Vadai",
+                              "category": "Vadas",
+                              "description": "Dal Vada are savory, spiced, crunchy fritters that are a popular street food in South India",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/aca66ce0-ea6b-46a2-b445-7462bbbd9fc6_3065792d-2d12-41be-89a2-3115c3a46cf7.jpg",
+                              "isVeg": 1,
+                              "price": 13500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:29 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.0",
+                                  "ratingCount": "82 ratings",
+                                  "ratingCountV2": "82"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Breakfast",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105330937",
+                              "name": "Upma",
+                              "category": "Breakfast",
+                              "description": "A savoury porridge made with semolina, water and veggies",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/9caac6ea-3b5d-4b4a-b6c9-e9a21fd34be6_d8caa91c-39c9-4076-94d3-34f44cb8a824.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "93 ratings",
+                                  "ratingCountV2": "93"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351437",
+                              "name": "Thengai Sevai",
+                              "category": "Breakfast",
+                              "description": "A fun variation of sevai, a type of rice-based vermicelli prepared with coconut that is popular in Southern India",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "13 ratings",
+                                  "ratingCountV2": "13"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351438",
+                              "name": "Upma-kesari Chow Chow",
+                              "category": "Breakfast",
+                              "description": "A combination of sweet and savoury flavours. Upma and kesari served with chutney",
+                              "imageId": "34f06a80b3cd9684cecfa2e4d4d6c34b",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 14500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "17 ratings",
+                                  "ratingCountV2": "17"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114431843",
+                              "name": "Paysam",
+                              "category": "Breakfast",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 13000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351440",
+                              "name": "Vengayam Upma",
+                              "category": "Breakfast",
+                              "description": "A savoury porridge made with semolina and chopped onions",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351435",
+                              "name": "Lemon Sevai",
+                              "category": "Breakfast",
+                              "description": "Rice noodles cooked and tossed with tempering then enriched with Lemon juice",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/def98e95-9ea9-4e71-96af-a14ff31ec716_f2d36a73-34a1-4cba-bd37-a083eef2b84c.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "20 ratings",
+                                  "ratingCountV2": "20"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105330940",
+                              "name": "Kesari",
+                              "category": "Breakfast",
+                              "description": "A simple and classical south Indian dessert recipe made with semolina, ghee, banana and jaggery",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/22a3ab90-1733-4f50-be89-fdf3cdd41b2f_298af15b-124f-4287-aec7-9afe96f36e9c.png",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "8 ratings",
+                                  "ratingCountV2": "8"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351436",
+                              "name": "Masala Upma",
+                              "category": "Breakfast",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.9",
+                                  "ratingCount": "13 ratings",
+                                  "ratingCountV2": "13"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "120211654",
+                              "name": "Ghee Podi Upma",
+                              "category": "Breakfast",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 11500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "140128840",
+                              "name": "Ghee Podi Upma",
+                              "category": "Breakfast",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 8900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119659381",
+                              "name": "Shakrapongal",
+                              "category": "Breakfast",
+                              "description": "Sweet + creamy pudding made + rice + jaggery + moong dal",
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119619907",
+                              "name": "Vengayam Bajji",
+                              "category": "Breakfast",
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119619908",
+                              "name": "Kara Bonda",
+                              "category": "Breakfast",
+                              "isVeg": 1,
+                              "price": 11000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119619909",
+                              "name": "Vazhakkai Bajji",
+                              "category": "Breakfast",
+                              "isVeg": 1,
+                              "price": 11000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "3 ratings",
+                                  "ratingCountV2": "3"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "124339667",
+                              "name": "Ella Ada",
+                              "category": "Breakfast",
+                              "description": "Ela Ada is a South Indian dumpling + wrapped in banana leaves + filled + rice flour dough + coconut + jaggery + + cardamom + steamed for a fragrant + sweet or savory treat.",
+                              "isVeg": 1,
+                              "price": 8900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Breakfast Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118322573",
+                              "name": "Breakfast Combo ( Upma+ Ulandu Vadai + Venpongal)",
+                              "category": "Breakfast Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "45 ratings",
+                                  "ratingCountV2": "45"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118326481",
+                              "name": "Combo (idli + Vadai + Upma)",
+                              "category": "Breakfast Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "87 ratings",
+                                  "ratingCountV2": "87"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118326482",
+                              "name": "Combo (idli + Vadai + Mini Uttapam",
+                              "category": "Breakfast Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 9900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "40 ratings",
+                                  "ratingCountV2": "40"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "120506139",
+                              "name": "Spicy Sweet Symphony",
+                              "category": "Breakfast Combo",
+                              "description": "Podi Upma + Shakrapongal Combo",
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 5:57 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Extras",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114431839",
+                              "name": "Sambhar (500ml)",
+                              "category": "Extras",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "18 ratings",
+                                  "ratingCountV2": "18"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116883079",
+                              "name": "Rasam (500ml)",
+                              "category": "Extras",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 10000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.6",
+                                  "ratingCount": "14 ratings",
+                                  "ratingCountV2": "14"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119736026",
+                              "name": "Extra Chatni Coconut (250ml)",
+                              "category": "Extras",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.3",
+                                  "ratingCount": "5 ratings",
+                                  "ratingCountV2": "5"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118326477",
+                              "name": "Podi Powder",
+                              "category": "Extras",
+                              "description": "Podi Powder (100 ML Container)",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116883080",
+                              "name": "Sambhar (250ml)",
+                              "category": "Extras",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118425501",
+                              "name": "Chettinad Chatny (100ml)",
+                              "category": "Extras",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.1",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "116883081",
+                              "name": "Rasam (250ml)",
+                              "category": "Extras",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "3.1",
+                                  "ratingCount": "12 ratings",
+                                  "ratingCountV2": "12"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "126412050",
+                              "name": "Extra Masala",
+                              "category": "Extras",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "117307474",
+                              "name": "Extra Rice (500ml)",
+                              "category": "Extras",
+                              "isVeg": 1,
+                              "price": 10000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:29 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167506",
+                              "name": "Extra Rice (250 Ml)",
+                              "category": "Extras",
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:29 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "5.0",
+                                  "ratingCount": "10 ratings",
+                                  "ratingCountV2": "10"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Appams",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351489",
+                              "name": "Paniyappam",
+                              "category": "Appams",
+                              "description": "Fermented rice and lentil batter mixed with seasoning and steamed in special pans",
+                              "imageId": "f8fdf9a8b1a5018c7ae7507bfffb3866",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.1",
+                                  "ratingCount": "136 ratings",
+                                  "ratingCountV2": "136"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Beverages & Desserts",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351468",
+                              "name": "Filter Coffee",
+                              "category": "Beverages & Desserts",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/0dde52b3-3701-4824-b321-c4a22126d848_04cc68d3-d6a7-4966-b560-e2616b541c17.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "isBestseller": true,
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.3",
+                                  "ratingCount": "135 ratings",
+                                  "ratingCountV2": "135"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "105330956",
+                              "name": "Moru",
+                              "category": "Beverages & Desserts",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/f6788c33-a3ba-4edd-93b2-1dd9b86e8840_54ce00e3-ca64-484a-8f55-1813fd3971df.jpg",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 5000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.2",
+                                  "ratingCount": "34 ratings",
+                                  "ratingCountV2": "34"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "114167470",
+                              "name": "Fresh Lime Water",
+                              "category": "Beverages & Desserts",
+                              "description": "Sweet / salty",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 4000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "9 ratings",
+                                  "ratingCountV2": "9"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Combo",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "140513266",
+                              "name": "Combo ( Paniyarappam+button Podi Idli+idli+vada+ Sweet+parappu Vadai+upma+filter Coffee)",
+                              "category": "Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "140513268",
+                              "name": "Combo (idli + Vada +upma+button Podi Idli + Filter Coffee+paniyarappam",
+                              "category": "Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "4 ratings",
+                                  "ratingCountV2": "4"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "140513269",
+                              "name": "Combo (idli + Vada +upma+",
+                              "category": "Combo",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 15900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "140513267",
+                              "name": "Combo (bisi Bele Bhaat+venpongal+thayir Saadham+rasam Saadham)",
+                              "category": "Combo",
+                              "isVeg": 1,
+                              "price": 19900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 5:57 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                      "title": "Thali",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "118326478",
+                              "name": "Set Vegetable With Sambhar & Rasam",
+                              "category": "Thali",
+                              "description": "2 Vegetable With Sambhar & Rasam",
+                              "isVeg": 1,
+                              "price": 19000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "6 ratings",
+                                  "ratingCountV2": "6"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "106351488",
+                              "name": "Traditional Thali",
+                              "category": "Thali",
+                              "description": "Rice served with sambhar, rasam, 1 vegetable curry 1 vegetable dry, kesari, curd , appalam, pickle",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/5e0251e4-2d82-44ca-9398-b1979014c0d7_2a90db21-34fe-421d-a0f5-756c4f4cee9f.jpg",
+                              "isVeg": 1,
+                              "price": 14900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.4",
+                                  "ratingCount": "172 ratings",
+                                  "ratingCountV2": "172"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119659377",
+                              "name": "Mini Meal (sambhar)",
+                              "category": "Thali",
+                              "description": "1 Vegetable + Sambhar + Rice + Appalam + Pickle + Sweet",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/38cc7345-ccf3-4ced-bef2-f8b98f1d2818_43870b43-62ab-4508-9169-5715acb15b5b.jpg",
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.5",
+                                  "ratingCount": "20 ratings",
+                                  "ratingCountV2": "20"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "119659376",
+                              "name": "Mini Meal (rassam)",
+                              "category": "Thali",
+                              "description": "1 Vegetable + Rassam + Rice + Appalam + Pickle + Sweet",
+                              "imageId": "FOOD_CATALOG/IMAGES/CMS/2024/5/10/c4e5a816-aded-456f-a51b-f3e4f35a99af_631f545b-a2b8-43ab-8427-3739374bdc7f.jpg",
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {
+                                  "rating": "4.8",
+                                  "ratingCount": "7 ratings",
+                                  "ratingCountV2": "7"
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "140128839",
+                              "name": "Set Vegetable With Sambhar",
+                              "category": "Thali",
+                              "description": "2 Vegetable With Sambhar",
+                              "isVeg": 1,
+                              "price": 12900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "nextAvailableAtMessage": "Next available at 6:27 am, tomorrow",
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {},
+                              "ratings": {
+                                "aggregatedRating": {}
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                      "type": "FSSAI",
+                      "imageId": "fssai_final_edss9i",
+                      "text": ["License No. 21522014000446"]
+                    }
+                  }
+                },
+                {
+                  "card": {
+                    "card": {
+                      "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                      "name": "Tamizhan T Fun",
+                      "area": "Thane Hiranandani Estate",
+                      "completeAddress": "Shop No-56 Ground Floor, C/D-VARDHAMAN VATIKA CHS,OPP.D-MART,KOLSHET ROAD , Dhokali, Thane West, Thane, Maharashtra, India"
+                    }
+                  }
+                }
+              ]
+            }
+          }
+        }
+      }
+    ],
+    "firstOffsetRequest": true,
+    "isQCLink": false
+  },
+  "tid": "c0d99205-de28-4895-b93f-f8f8ca9815e6",
+  "sid": "fdl36bd8-c0b9-41d8-ab9f-b174cf48db1e",
+  "deviceId": "97ce2926-5ddb-a605-b35a-25acdb8e20dd",
+  "csrfToken": "qkRkFNisIxIL-9LOYANSCdY_D3Q98FYFnFfmrja0"
+}
